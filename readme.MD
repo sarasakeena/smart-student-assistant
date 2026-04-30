@@ -43,6 +43,7 @@ An AI-powered assistant that analyzes resumes, scores quality, and matches jobs 
 - **Maintainable** - Clean, readable code structure
 
 ## Project Structure
+```bash
 resume-optimizer-assistant/
 ├── resume_parser.py        # Resume file parsing
 ├── resume_scorer.py        # Quality scoring logic
@@ -52,6 +53,7 @@ resume-optimizer-assistant/
 ├── tests/                 # Unit tests
 ├── requirements.txt       # Dependencies
 └── README.md             # This file
+```
 
 ## How to Run
 
